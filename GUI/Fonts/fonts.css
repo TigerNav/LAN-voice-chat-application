@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'arvoregular';
+    src: url('arvo/arvo-regular-webfont.woff2') format('woff2'),
+         url('arvo/arvo-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'arvobold';
+    src: url('arvo/arvo-bold-webfont.woff2') format('woff2'),
+         url('arvo/arvo-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'arvobold_italic';
+    src: url('arvo/arvo-bolditalic-webfont.woff2') format('woff2'),
+         url('arvo/arvo-bolditalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'arvoitalic';
+    src: url('arvo/arvo-italic-webfont.woff2') format('woff2'),
+         url('arvo/arvo-italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}

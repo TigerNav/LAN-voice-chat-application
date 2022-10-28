@@ -1,0 +1,17 @@
+{
+  "name": "voice-chat-app",
+  "version": "1.0.0",
+  "description": "some little project or sum",
+  "main": "/home/navin/Programming/voice-chat-application/GUI/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Navin Sethi",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^21.2.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.2"
+  }
+}
