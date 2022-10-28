@@ -10,7 +10,7 @@ function createWindow () {
     }
   })
 
-  win.loadFile('/home/navin/Programming/voice-chat-application/GUI/index.html')
+  win.loadFile('/home/navin/Programming/LAN-voice-chat-application/GUI/index.html')
 }
 
 app.whenReady().then(() => {

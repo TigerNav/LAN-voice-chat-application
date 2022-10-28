@@ -1,17 +1,19 @@
 {
-  "name": "voice-chat-app",
+  "name": "lan-vc",
   "version": "1.0.0",
-  "description": "some little project or sum",
-  "main": "/home/navin/Programming/voice-chat-application/GUI/main.js",
+  "description": "local area network voice chat",
+  "main": "../GUI/main.js",
   "scripts": {
     "start": "electron ."
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TigerNav/LAN-voice-chat-application.git"
+  },
   "author": "Navin Sethi",
   "license": "ISC",
-  "devDependencies": {
-    "electron": "^21.2.0"
+  "bugs": {
+    "url": "https://github.com/TigerNav/LAN-voice-chat-application/issues"
   },
-  "dependencies": {
-    "bootstrap": "^5.2.2"
-  }
+  "homepage": "https://github.com/TigerNav/LAN-voice-chat-application#readme"
 }

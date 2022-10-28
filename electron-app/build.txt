@@ -1,0 +1,5 @@
+1. makes sure you have npm installed
+2. change into this directory
+3. make sure you have electron installed
+    "npm install -g electron"
+4. run "npm start"
