@@ -1,15 +1,9 @@
-@import url("Fonts/fonts.css");
-
 
 *{
-    
     font-family: 'Courier New', Courier, monospace;
     background-color: #2F243A;
     text-align: center;
-    
-    
 }
-
 
 h1 {
     padding-top: 50px;
@@ -42,9 +36,8 @@ a {
     
 }
 
-.col-1 h2{
-    font-size: 30px;
-}
+
+
 button{
     
     border-radius: 10px;
@@ -54,6 +47,7 @@ button{
     border: 0;
     background: linear-gradient(to right, #7E1F86, #9D79BC);
 }
+
 button:hover {
     background: linear-gradient(to right, #b46eba, #dcd4e3);
 }
